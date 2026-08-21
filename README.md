@@ -1,5 +1,61 @@
-# 💫 About Me:
-# 💫 About Me<br><br>🎓 B.Tech CSE @ KLU • ☕ Java • 🧠 DSA • 🌐 Full-Stack Development • 🔥 800+ Day GFG Streak<br><br>### 🛠️ Skills<br><br>**Java • C • JavaScript • SQL • React • HTML • CSS • Tailwind CSS • Node.js • Express.js • MySQL • MongoDB • Git**<br><br>### 🚀 Project<br><br>**NutriHealth** — React.js • Node.js • Tailwind CSS<br><br>### 🎯 Focus<br><br>**DSA • Java • Full-Stack Development • Software Engineering**<br><br>### 🌐 Socials<br><br>[LeetCode](https://leetcode.com/u/pasupuletiavinash403/) • [GeeksforGeeks](https://www.geeksforgeeks.org/profile/pasupuletiaee6h) • [LinkedIn](https://www.linkedin.com/in/avinash-pasupuleti-5150762a6/)
+<table>
+<tr>
+<td width="50%">
+
+## 👋 About Me
+
+🎓 **B.Tech CSE @ KLU**  
+☕ **Java** • 🧠 **DSA**  
+🌐 **Full-Stack Development**  
+🔥 **800+ Day GFG Streak**
+
+</td>
+
+<td width="50%">
+
+## 🛠️ Skills
+
+**Languages**  
+Java • C • JavaScript • SQL
+
+**Frontend**  
+React • HTML • CSS • Tailwind CSS
+
+**Backend**  
+Node.js • Express.js
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🚀 Project
+
+### 🥗 NutriHealth
+
+**Tech Stack**
+
+React.js • Node.js  
+Tailwind CSS • MySQL
+
+</td>
+
+<td width="50%">
+
+## 🎯 Focus
+
+🧠 **DSA**
+
+☕ **Java**
+
+🌐 **Full-Stack Development**
+
+💻 **Software Engineering**
+
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
