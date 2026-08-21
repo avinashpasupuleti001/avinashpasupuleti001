@@ -1,6 +1,6 @@
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 👋 About Me
 
@@ -11,7 +11,7 @@
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🛠️ Skills
 
@@ -24,11 +24,14 @@ React • HTML • CSS • Tailwind CSS
 **Backend**  
 Node.js • Express.js
 
+**Database**  
+MySQL • MongoDB
+
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🚀 Project
 
@@ -41,7 +44,7 @@ Tailwind CSS • MySQL
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎯 Focus
 
