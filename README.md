@@ -1,64 +1,19 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
-<tr>
-<td width="50%" valign="top">
+💫 About Me
+🎓 2nd Year B.Tech CSE @ KLU • ☕ Java & DSA • 🌐 Full-Stack Development • 🔥 800+ Day GFG POTD Streak • 🚀 Aspiring Software Engineer
 
-## 👋 About Me
+🛠️ Skills
+Languages: Java • C • JavaScript • SQL
+Frontend: React • HTML • CSS • Tailwind CSS
+Backend: Node.js • Express.js
+Database: MySQL • MongoDB
+Core CS: DSA • OOP • OS • DBMS • CN
+Tools: Git • GitHub
 
-🎓 **B.Tech CSE @ KLU**  
-☕ **Java** • 🧠 **DSA**  
-🌐 **Full-Stack Development**  
-🔥 **800+ Day GFG Streak**
+🚀 Project
+NutriHealth — React.js • Node.js • Tailwind CSS
 
-</td>
-
-<td width="50%" valign="top">
-
-## 🛠️ Skills
-
-**Languages**  
-Java • C • JavaScript • SQL
-
-**Frontend**  
-React • HTML • CSS • Tailwind CSS
-
-**Backend**  
-Node.js • Express.js
-
-**Database**  
-MySQL • MongoDB
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🚀 Project
-
-### 🥗 NutriHealth
-
-**Tech Stack**
-
-React.js • Node.js  
-Tailwind CSS • MySQL
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎯 Focus
-
-🧠 **DSA**
-
-☕ **Java**
-
-🌐 **Full-Stack Development**
-
-💻 **Software Engineering**
-
-</td>
-</tr>
-</table>
+📌 Focus
+DSA • Java • Full-Stack Development
 
 
 ## 🌐 Socials:
