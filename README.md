@@ -1,10 +1,11 @@
 # 💫 About Me
 
-# Hi, I'm Avinash Pasupuleti 👋
-
-🎓 2nd Year B.Tech CSE @ KLU | 💻 Aspiring Software Engineer | ☕ Java & DSA | 🌐 Full-Stack Development | 🔥 800+ Day GFG POTD Streak. I’m passionate about building projects, solving problems, and continuously improving my software development skills.
+🎓 **2nd Year B.Tech CSE @ KLU** | 💻 **Aspiring Software Engineer** | ☕ **Java & DSA** | 🌐 **Full-Stack Development** | 🔥 **800+ Day GFG POTD Streak.** I’m passionate about building projects, solving problems, and continuously improving my software development skills.
 
 🛠️ **Tech Stack:** Java • C • JavaScript • SQL • React • HTML • CSS • Tailwind CSS • Node.js • Express.js • MySQL • MongoDB • Git • GitHub. 🧠 **Core CS:** DSA • OOP • OS • DBMS • CN. 🚀 **Featured Project:** NutriHealth — a full-stack application built with React.js, Node.js & Tailwind CSS. 🎯 Currently focusing on DSA, Java, Full-Stack Development, and Software Engineering.
+
+
+
 
 ### 🌐 Socials
 
