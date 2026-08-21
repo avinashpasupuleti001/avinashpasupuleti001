@@ -1,8 +1,10 @@
 # 💫 About Me
 
-🎓 **2nd Year B.Tech CSE @ KLU**  
-☕ **Java & DSA Enthusiast** • 🌐 **Full-Stack Developer**  
-🔥 **800+ Day GFG POTD Streak** • 🚀 **Aspiring Software Engineer**
+ **2nd Year B.Tech CSE @ KLU**  
+ **Java & DSA**  
+ **Full-Stack Development**  
+ **800+ Day GFG POTD Streak**  
+ **Aspiring Software Engineer**
 
 ---
 
@@ -44,6 +46,10 @@ A full-stack application built with:
 ☕ **Java**  
 🌐 **Full-Stack Development**  
 💻 **Software Engineering**
+
+### 🌐 Socials
+
+[LinkedIn](https://www.linkedin.com/in/avinash-pasupuleti-5150762a/) • [LeetCode](https://leetcode.com/u/pasupuletiavinash403/) • [GeeksforGeeks](https://www.geeksforgeeks.org/profile/pasupuletiaee6h)
 
 
 ## 🌐 Socials:
