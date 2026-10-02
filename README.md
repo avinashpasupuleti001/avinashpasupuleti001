@@ -9,7 +9,7 @@
 
 ### 🌐 Socials
 
-[LinkedIn](https://www.linkedin.com/in/avinash-pasupuleti-5150762a/) • [LeetCode](https://leetcode.com/u/pasupuletiavinash403/) • [GeeksforGeeks](https://www.geeksforgeeks.org/profile/pasupuletiaee6h) • [PortFolio]([https://leetcode.com/u/pasupuletiavinash403/](https://avinashportfolio001.netlify.app/#home)
+[LinkedIn](https://www.linkedin.com/in/avinash-pasupuleti-5150762a/) • [LeetCode](https://leetcode.com/u/pasupuletiavinash403/) • [GeeksforGeeks](https://www.geeksforgeeks.org/profile/pasupuletiaee6h) • [Portfolio](https://avinashportfolio001.netlify.app/#home)
 
 
 ## 🌐 Socials:
