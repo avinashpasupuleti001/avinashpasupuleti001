@@ -1,15 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:7b2ff7,100:ff0080&height=300&section=header&text=AVINASH%20PASUPULETI&fontSize=55&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=62" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Avinash%20Pasupuleti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&height=50&lines=Aspiring+Software+Engineer;Java+%E2%80%A2+DSA+%E2%80%A2+Full-Stack+Development;900%2B+Day+GFG+POTD+Streak+%F0%9F%94%A5;Building+projects.+Solving+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Java+%7C+DSA+%7C+Full-Stack+Development;900%2B+Day+GFG+POTD+Streak+%F0%9F%94%A5;Building+projects.+Solving+problems.;Learning+something+new+every+day" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7b2ff7?style=for-the-badge&logo=netlify&logoColor=white)](https://avinashportfolio-dev.netlify.app/#home)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white)](https://avinashportfolio-dev.netlify.app/#home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-pasupuleti-5150762a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pasupuletiavinash403/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pasupuletiaee6h)
@@ -86,16 +86,36 @@
 
 ---
 
+## 🟩 My Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/39d353/avinashpasupuleti001" alt="GitHub contribution graph" width="95%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=avinashpasupuleti001&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashpasupuleti001&theme=tokyo-night&hide_border=true&area=true&color=38bdf8&line=39d353&point=ffffff" alt="activity graph" width="95%" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.shion.dev/api?username=avinashpasupuleti001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
 <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=avinashpasupuleti001&theme=tokyonight&hide_border=true&layout=compact" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=avinashpasupuleti001&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
@@ -116,6 +136,6 @@
 
 ### 🤝 Let's connect. Open to internships & collaborations!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7b2ff7,100:ff0080&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
