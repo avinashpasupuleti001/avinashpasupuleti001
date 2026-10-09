@@ -68,31 +68,24 @@ A full-stack health & nutrition application.
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
-
 ## 🟩 My Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/avinashpasupuleti001/avinashpasupuleti001/output/github-snake.svg" alt="contribution graph with snake" width="100%" />
+<img src="https://github-contributions-api.deno.dev/avinashpasupuleti001.svg?scheme=github-dark&no-total=true" alt="GitHub contribution graph" width="100%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=avinashpasupuleti001&hide_border=true&background=EFF6FF&ring=38BDF8&fire=FF7A00&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0EA5E9&sideLabels=475569&dates=64748B&border=E2E8F0" alt="streak" />
+<img src="https://raw.githubusercontent.com/avinashpasupuleti001/avinashpasupuleti001/output/github-snake-dark.svg" alt="snake" width="100%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=avinashpasupuleti001&hide_border=true&theme=transparent&ring=38BDF8&fire=FF7A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" alt="streak" />
 
 </div>
 
 
----
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashpasupuleti001&bg_color=F8FAFC&color=0EA5E9&line=38BDF8&point=0F172A&area=true&area_color=BAE6FD&hide_border=true" alt="activity graph" width="100%" />
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
