@@ -1,15 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Avinash%20Pasupuleti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:7b2ff7,100:ff0080&height=300&section=header&text=AVINASH%20PASUPULETI&fontSize=55&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=62" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=2nd+Year+B.Tech+CSE+%40+KL+University;Java+%7C+DSA+%7C+Full-Stack+Development;800%2B+Day+GFG+POTD+Streak+%F0%9F%94%A5;Building+projects.+Solving+problems.+Leveling+up." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&height=50&lines=Aspiring+Software+Engineer;Java+%E2%80%A2+DSA+%E2%80%A2+Full-Stack+Development;900%2B+Day+GFG+POTD+Streak+%F0%9F%94%A5;Building+projects.+Solving+problems." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white)](https://avinashportfolio-dev.netlify.app/#home)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7b2ff7?style=for-the-badge&logo=netlify&logoColor=white)](https://avinashportfolio-dev.netlify.app/#home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-pasupuleti-5150762a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pasupuletiavinash403/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pasupuletiaee6h)
@@ -19,25 +19,30 @@
 
 ---
 
-## 👨‍💻 About Me
+## ✨ About Me
 
-```java
-public class Avinash {
-    String role     = "2nd Year B.Tech CSE @ KL University";
-    String goal     = "Software Engineer";
-    String focus[]  = {"DSA", "Java", "Full-Stack Development"};
-    String streak   = "800+ days on GFG POTD 🔥";
-
-    public void motto() {
-        System.out.println("Build. Solve. Improve. Repeat.");
-    }
-}
-```
-
-- 🎓 Computer Science student passionate about building real-world projects
-- 🧠 Strengthening core CS: **DSA • OOP • OS • DBMS • CN**
-- 🚀 Currently focused on **DSA, Java, Full-Stack Development & Software Engineering**
-- 🔥 Consistent problem solver with an **800+ day GeeksforGeeks POTD streak**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 What I Do</h3>
+      I love building projects, solving problems and continuously improving my software development skills.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Current Focus</h3>
+      DSA • Java • Full-Stack Development • Software Engineering
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Core CS</h3>
+      DSA • OOP • OS • DBMS • CN
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔥 Consistency</h3>
+      900+ day GeeksforGeeks POTD streak. Showing up every single day.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -101,7 +106,7 @@ public class Avinash {
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/Solve_with_me_on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pasupuletiavinash403/)
-[![GFG](https://img.shields.io/badge/Daily_streak_on-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pasupuletiaee6h)
+[![GFG](https://img.shields.io/badge/900+_day_streak_on-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pasupuletiaee6h)
 
 </div>
 
@@ -109,8 +114,8 @@ public class Avinash {
 
 <div align="center">
 
-### 🤝 Let's connect — open to internships & collaborations!
+### 🤝 Let's connect. Open to internships & collaborations!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7b2ff7,100:ff0080&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
