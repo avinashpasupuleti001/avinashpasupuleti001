@@ -22,15 +22,15 @@
 
 ## ✨ About Me
 
-I love building projects, solving problems and continuously improving my software development skills. 💻
+I love building projects, solving problems and continuously improving my software development skills. 
 
-🎯 **Currently focusing on:** DSA • Java • Full-Stack Development • Software Engineering
+ **Currently focusing on:** DSA • Java • Full-Stack Development • Software Engineering
 
-🧠 **Core CS:** DSA • OOP • OS • DBMS • CN
+ **Core CS:** DSA • OOP • OS • DBMS • CN
 
-🔥 **Consistency:** 900+ day GeeksforGeeks POTD streak. Showing up every single day.
+ **Consistency:** 900+ day GeeksforGeeks POTD streak. Showing up every single day.
 
-🌱 **Always learning:** one project and one problem at a time.
+ **Always learning:** one project and one problem at a time.
 
 ---
 
@@ -58,9 +58,9 @@ I love building projects, solving problems and continuously improving my softwar
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 🥗 NutriHealth
+###  NutriHealth
 
 A full-stack health & nutrition application.
 
