@@ -1,6 +1,7 @@
 <div align="center">
 
 ### Hi 👋, I'm Avinash Pasupuleti
+#
 
 **Aspiring Software Engineer | Full-Stack Developer**
 
