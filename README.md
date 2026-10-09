@@ -73,7 +73,29 @@ A full-stack health & nutrition application.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/avinashpasupuleti001/avinashpasupuleti001/output/github-snake.svg" alt="contribution graph with snake" width="100%" />
+<table width="96%">
+  <tr>
+    <td width="8%" align="left"><sub><b>Oct</b></sub></td>
+    <td width="8%" align="left"><sub><b>Nov</b></sub></td>
+    <td width="8%" align="left"><sub><b>Dec</b></sub></td>
+    <td width="8%" align="left"><sub><b>Jan</b></sub></td>
+    <td width="8%" align="left"><sub><b>Feb</b></sub></td>
+    <td width="8%" align="left"><sub><b>Mar</b></sub></td>
+    <td width="8%" align="left"><sub><b>Apr</b></sub></td>
+    <td width="8%" align="left"><sub><b>May</b></sub></td>
+    <td width="8%" align="left"><sub><b>Jun</b></sub></td>
+    <td width="8%" align="left"><sub><b>Jul</b></sub></td>
+    <td width="8%" align="left"><sub><b>Aug</b></sub></td>
+    <td width="8%" align="left"><sub><b>Sep</b></sub></td>
+    <td width="4%" align="left"><sub><b>Oct</b></sub></td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avinashpasupuleti001/avinashpasupuleti001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avinashpasupuleti001/avinashpasupuleti001/output/github-snake.svg" />
+  <img alt="contribution graph with snake" src="https://raw.githubusercontent.com/avinashpasupuleti001/avinashpasupuleti001/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
