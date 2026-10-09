@@ -1,5 +1,7 @@
 <div align="center">
 
+### Hi 👋,  I'm
+
 # Avinash Pasupuleti
 
 **Aspiring Software Engineer | Full-Stack Developer**
@@ -17,7 +19,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasupuletiavinash403@gmail.com)
 
 </div>
-
 ---
 
 ## ✨ About Me
