@@ -20,6 +20,7 @@ jobs:
           github_user_name: avinashpasupuleti001
           outputs: |
             dist/github-snake.svg?palette=github-light&color_dots=#e0f2fe,#bbf7d0,#86efac,#4ade80,#22c55e
+            dist/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
