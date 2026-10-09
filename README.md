@@ -1,10 +1,11 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5F3FC,50:C4B5FD,100:FBCFE8&height=240&section=header&text=Avinash%20Pasupuleti&fontSize=52&fontColor=1E293B&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descColor=334155&descSize=18&descAlignY=58" width="100%" alt="header" />
+# Avinash Pasupuleti
+
+**Aspiring Software Engineer | Full-Stack Developer**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=50&lines=Java+%7C+DSA+%7C+Full-Stack+Development;900%2B+Day+GFG+POTD+Streak+%F0%9F%94%A5;Building+projects.+Solving+problems.;Learning+something+new+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Java+%7C+DSA+%7C+Full-Stack+Development;900%2B+Day+GFG+POTD+Streak+%F0%9F%94%A5;Building+projects.+Solving+problems.;Learning+something+new+every+day" alt="Typing SVG" />
 </a>
 
 <br/><br/>
