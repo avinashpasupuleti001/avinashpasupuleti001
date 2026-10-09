@@ -23,13 +23,13 @@
 
 I love building projects, solving problems and continuously improving my software development skills. 💻
 
- **Currently focusing on:** DSA • Java • Full-Stack Development • Software Engineering
+🎯 **Currently focusing on:** DSA • Java • Full-Stack Development • Software Engineering
 
- **Core CS:** DSA • OOP • OS • DBMS • CN
+🧠 **Core CS:** DSA • OOP • OS • DBMS • CN
 
- **Consistency:** 900+ day GeeksforGeeks POTD streak. Showing up every single day.
+🔥 **Consistency:** 900+ day GeeksforGeeks POTD streak. Showing up every single day.
 
- **Always learning:** one project and one problem at a time.
+🌱 **Always learning:** one project and one problem at a time.
 
 ---
 
@@ -57,7 +57,7 @@ I love building projects, solving problems and continuously improving my softwar
 
 ---
 
-## Featured Project
+## 🚀 Featured Project
 
 ### 🥗 NutriHealth
 
@@ -68,15 +68,12 @@ A full-stack health & nutrition application.
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
+
 ## 🟩 My Contribution Graph
 
 <div align="center">
 
-<img src="https://github-contributions-api.deno.dev/avinashpasupuleti001.svg?scheme=github-dark&no-total=true" alt="GitHub contribution graph" width="100%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/avinashpasupuleti001/avinashpasupuleti001/output/github-snake-dark.svg" alt="snake" width="100%" />
+<img src="https://raw.githubusercontent.com/avinashpasupuleti001/avinashpasupuleti001/output/github-snake-dark.svg" alt="contribution graph with snake" width="100%" />
 
 <br/><br/>
 
@@ -86,21 +83,18 @@ A full-stack health & nutrition application.
 
 ---
 
-
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=avinashpasupuleti001&show_icons=true&hide_border=true&count_private=true&bg_color=EFF6FF&title_color=0EA5E9&text_color=334155&icon_color=6366F1&border_radius=12" alt="stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=avinashpasupuleti001&hide_border=true&layout=compact&bg_color=EFF6FF&title_color=0EA5E9&text_color=334155&border_radius=12" alt="top languages" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=avinashpasupuleti001&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=A78BFA&text_color=94A3B8&icon_color=38BDF8&border_radius=12" alt="stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=avinashpasupuleti001&hide_border=true&layout=compact&bg_color=00000000&title_color=A78BFA&text_color=94A3B8&border_radius=12" alt="top languages" />
 
 </div>
 
 ---
 
-##  Coding Profiles
+## 🎯 Coding Profiles
 
 <div align="center">
 
