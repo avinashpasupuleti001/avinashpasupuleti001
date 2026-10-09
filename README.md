@@ -69,22 +69,18 @@ A full-stack health & nutrition application.
 
 ---
 
-##  My Contribution Graph
+## 🟩 My Contribution Graph
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/22c55e/avinashpasupuleti001" alt="GitHub contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/avinashpasupuleti001/avinashpasupuleti001/output/github-snake.svg" alt="contribution graph with snake" width="100%" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=avinashpasupuleti001&hide_border=true&background=EFF6FF&ring=38BDF8&fire=FF7A00&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0EA5E9&sideLabels=475569&dates=64748B&border=E2E8F0" alt="streak" />
 
-<br/><br/>
-
-<!-- Animated snake (works after you add the workflow from step 2) -->
-<img src="https://raw.githubusercontent.com/avinashpasupuleti001/avinashpasupuleti001/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-
 </div>
+
 
 ---
 
