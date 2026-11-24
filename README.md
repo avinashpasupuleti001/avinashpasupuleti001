@@ -26,7 +26,7 @@ I love building projects, solving problems and continuously improving my softwar
 
  **Currently focusing on:** DSA • Java • Full-Stack Development • Software Engineering
 
- **Core CS:** DSA • OOP • OS • DBMS • CN
+ **Core CS:** DSA • OOP • OS • DBMS 
 
  **Consistency:** 900+ day GeeksforGeeks POTD streak. Showing up every single day.
 
@@ -93,18 +93,6 @@ A full-stack health & nutrition application.
 
 </div>
 
----
-
-## 🎯 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/Solve_with_me_on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pasupuletiavinash403/)
-[![GFG](https://img.shields.io/badge/900+_day_streak_on-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pasupuletiaee6h)
-
-</div>
-
----
 
 <div align="center">
 
